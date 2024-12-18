@@ -1,6 +1,0 @@
-#include "sidto.h"
-void main ()
-{
-     printf("hello");
-}
-
